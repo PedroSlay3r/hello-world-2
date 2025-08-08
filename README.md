@@ -2,3 +2,5 @@
 
 Este es mi nuevo repositorio, puesto que el anterior la regué y estaba demasiado desordenado.
 Bueno sin más que agregar a darle!
+
+Ahora no se ve nada en "rama".
